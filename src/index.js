@@ -61,7 +61,7 @@ let getMorseSymbol = function(symbol) {
             case '11':
                 result += '-';
                 break;
-        }
+        } 
     }
     return result;
 }
